@@ -1,0 +1,5 @@
+Recently, I learned about the use of flex in layout designs for websites. It was very refreshing to see layouts not having to rely on tons of css 2.0 hacks that were clunky and gave all sorts of issues. Obviously, we should still be aware of our market, and ensure that if we do have devices with IE 6, that we take steps to target our market appropriately, but it was quite nice to use flex, as an example, for the nav. It is significantly nicer than targeting individual li's for this action or that action.
+
+I would like to see flex compared with grid, and how the two compare. I know that grid is 2d and flex is 1d. I also know that grid is less available than flexbox (flex being 99.49% global and grid being 96.16% global.
+
+I think it would be interesting to see what differences these make in terms of layouts.
